@@ -10,8 +10,9 @@ permalink: /images/manifest.json
 	"lang": {{ site.locale | default: "en" | jsonify }},
 	"icons": [
 		{
-			"src": "{{ site.baseurl }}/images/favicon.ico?v=hanxiu",
-			"type": "image/x-icon"
+			"src": "{{ site.baseurl }}/images/favicon.svg?v=hanxiu-square-1",
+			"sizes": "any",
+			"type": "image/svg+xml"
 		}
 	]
 }
