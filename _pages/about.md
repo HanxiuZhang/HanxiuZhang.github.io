@@ -22,8 +22,6 @@ I'm a PhD student at CUHK-SZ, supervised by [Dr. Yue Zheng](https://myweb.cuhk.e
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=sa-s1WgAAAAJ&hl=en)
-
 - **Hanxiu Zhang**, Yue Zheng*: “SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting.” [arXiv](https://arxiv.org/abs/2512.03620).
 - Peichun Hua, **Hanxiu Zhang**, Tuo Li, Yue Zheng*: “Securing On-device Transformer with Hardware Binding and Reversible Obfuscation.” Accepted by ACSAC 2025.
 - **Hanxiu Zhang**, Guitao Cao*, Xinyue Zhang, Jing Xiang, Chunwei Wu: “Making Adversarial Attack Imperceptible in Frequency Domain: A Watermark-based Framework.” Accepted by ICME 2023.
