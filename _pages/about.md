@@ -22,6 +22,7 @@ I'm a PhD student at CUHK-SZ, supervised by [Dr. Yue Zheng](https://myweb.cuhk.e
 
 ## Publications
 
+- Peichun Hua, **Hanxiu Zhang**, Tuo Li, Yue Zheng\*, Wenye Liu: “[Live Demonstration: Hardware-Bound IP Protection for OWL-ViT on Edge Devices](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=sa-s1WgAAAAJ&citation_for_view=sa-s1WgAAAAJ:Tyk-4Ss8FVUC).” Accepted by ISCAS 2026.
 - **Hanxiu Zhang**, Yue Zheng*: “SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting.” [arXiv](https://arxiv.org/abs/2512.03620).
 - Peichun Hua, **Hanxiu Zhang**, Tuo Li, Yue Zheng*: “Securing On-device Transformer with Hardware Binding and Reversible Obfuscation.” Accepted by ACSAC 2025.
 - **Hanxiu Zhang**, Guitao Cao*, Xinyue Zhang, Jing Xiang, Chunwei Wu: “Making Adversarial Attack Imperceptible in Frequency Domain: A Watermark-based Framework.” Accepted by ICME 2023.
