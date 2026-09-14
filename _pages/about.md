@@ -23,7 +23,7 @@ I'm a PhD student at CUHK-SZ, supervised by [Dr. Yue Zheng](https://myweb.cuhk.e
 ## Publications
 
 - Peichun Hua, **Hanxiu Zhang**, Tuo Li, Yue Zheng\*, Wenye Liu: “[Live Demonstration: Hardware-Bound IP Protection for OWL-ViT on Edge Devices](https://ieeexplore.ieee.org/document/11562768).” Accepted by ISCAS 2026.
-- **Hanxiu Zhang**, Yue Zheng\*: “[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620).” arXiv
+- **Hanxiu Zhang**, Yue Zheng\*: “[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620).” arXiv.
 - Peichun Hua, **Hanxiu Zhang**, Tuo Li, Yue Zheng\*: “[Securing On-device Transformer with Hardware Binding and Reversible Obfuscation](https://ieeexplore.ieee.org/document/11391918).” Accepted by ACSAC 2025.
 - **Hanxiu Zhang**, Guitao Cao\*, Xinyue Zhang, Jing Xiang, Chunwei Wu: “[Making Adversarial Attack Imperceptible in Frequency Domain: A Watermark-based Framework](https://ieeexplore.ieee.org/document/10219902).” Accepted by ICME 2023.
 - Jing Xiang, Xinyue Zhang, Chunwei Wu, **Hanxiu Zhang**, Guitao Cao*, Hong Wang: “[Discriminative Feature Mining and Alignment for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/10191688).” Accepted by IJCNN 2023.
