@@ -1,16 +1,12 @@
----
-layout: none
-permalink: /images/manifest.json
----
 {
-	"name": {{ site.title | jsonify }},
-	"short_name": {{ site.name | jsonify }},
-	"description": {{ site.description | jsonify }},
-	"start_url": "{{ site.baseurl | default: '/' }}",
-	"lang": {{ site.locale | default: "en" | jsonify }},
+	"name": "Hanxiu Zhang",
+	"short_name": "Hanxiu Zhang",
+	"description": "Hanxiu Zhang — PhD student at CUHK-SZ, working on AI security.",
+	"start_url": "../",
+	"lang": "en-US",
 	"icons": [
 		{
-			"src": "{{ site.baseurl }}/images/favicon.svg?v=hanxiu-square-1",
+			"src": "favicon.svg?v=bigwhitecat-1",
 			"sizes": "any",
 			"type": "image/svg+xml"
 		}
